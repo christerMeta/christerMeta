@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christerMeta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in the Metaverse
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Meta opportunities
 - 📫 How to reach me cantonsen@fb.com
 
 <!---
